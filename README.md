@@ -23,7 +23,7 @@ A user-friendly Python chatbot that can answer simple questions and analyze your
 - type "pip install textblob"
 - Run the Chatbot by typing : "python Mira_SimpleChatBot.py"
 - Chat with the Bot
-- 
+  
 # Developer😊
   Developed By Pashyanthi Vangala 
   
